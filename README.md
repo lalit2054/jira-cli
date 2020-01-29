@@ -6,7 +6,7 @@ This is a command line client Jira API, useful to create new issues.
 
 ## Getting Started
 
-*  Install with npm: `npm install -g jira-cl`
+*  Install with npm: `npm install -g jira-cl-plus`
 *  Run it with `jira [command] [arguments]`
 
 ### Initial Setup
